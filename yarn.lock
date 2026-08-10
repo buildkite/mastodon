@@ -2976,7 +2976,7 @@ __metadata:
     eslint-plugin-storybook: "npm:^10.2.8"
     fake-indexeddb: "npm:^6.0.1"
     fast-glob: "npm:^3.3.3"
-    fuzzysort: "npm:^3.0.0"
+    fuzzysort: "npm:^4.0.0"
     globals: "npm:^17.3.0"
     history: "npm:^4.10.1"
     hoist-non-react-statics: "npm:^3.3.2"
@@ -8301,10 +8301,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fuzzysort@npm:^3.0.0":
-  version: 3.1.0
-  resolution: "fuzzysort@npm:3.1.0"
-  checksum: 10c0/da9bb32de16f2a5c2c000b99031d9f4f8a01380c12d5d3b67296443a1152c55987ce3c4ddbfe97481b0e9b6f2fb77d61dceba29a93ad36ee23ef5bab6a31afb8
+"fuzzysort@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "fuzzysort@npm:4.0.0"
+  checksum: 10c0/b5e887a7cc3c1c3a016677651fd1911298065ae9545ebf967f507a0e504bbe5d2c8ae14fd38241f54debea24b66fbface4fa7c6d7c6bd161605d5308419e1f7f
   languageName: node
   linkType: hard
 
@@ -10269,16 +10269,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"minizlib@npm:^3.0.1":
-  version: 3.0.2
-  resolution: "minizlib@npm:3.0.2"
-  dependencies:
-    minipass: "npm:^7.1.2"
-  checksum: 10c0/9f3bd35e41d40d02469cb30470c55ccc21cae0db40e08d1d0b1dff01cc8cc89a6f78e9c5d2b7c844e485ec0a8abc2238111213fdc5b2038e6d1012eacf316f78
-  languageName: node
-  linkType: hard
-
-"minizlib@npm:^3.1.0":
+"minizlib@npm:^3.0.1, minizlib@npm:^3.1.0":
   version: 3.1.0
   resolution: "minizlib@npm:3.1.0"
   dependencies:
